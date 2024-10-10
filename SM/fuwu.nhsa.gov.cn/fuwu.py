@@ -46,7 +46,7 @@ data = {
     "medinsLvCode": "",
     "medinsTypeCode": "",
     "outMedOpenFlag": "",
-    "pageNum": 2,
+    "pageNum": 1,
     "pageSize": 10,
     "queryDataSource": "es"
 }
